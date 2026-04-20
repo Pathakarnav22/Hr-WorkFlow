@@ -2,7 +2,7 @@
 
 # HR Workflow Designer (React + React Flow)
 
-A mini visual workflow builder for HR teams to design, configure, and simulate internal processes such as onboarding, approvals, and automation flows.
+A visual workflow builder for HR teams to design, configure, and simulate internal processes such as onboarding, approvals, and automation flows.
 
 ⸻
 Vercel Deployment Link
